@@ -1,5 +1,6 @@
-
 ## 🧪 Week 6 MERN Testing & Debugging — Assignment
+
+
 ![Test Coverage](https://img.shields.io/badge/Coverage-85%25-brightgreen)
 ![Jest](https://img.shields.io/badge/Tested_with-Jest-blue)
 ![MongoDB Memory Server](https://img.shields.io/badge/DB-Memory_Server-yellow)
@@ -17,7 +18,7 @@ mern-testing/ ├── client/ # React front-end │ ├── src/ │ │ ├
 
 ---
 
-📋 Testing Strategy Summary markdown
+
 ## 🧪 Testing Strategy
 
 This project implements a layered testing approach across the MERN stack:
@@ -32,6 +33,7 @@ This project implements a layered testing approach across the MERN stack:
 ## Environment Setup
 
 Create a `.env` file in the `server/` directory based on `.env.example`:
+
 
 cp server/.env.example server/.env
 
@@ -66,7 +68,7 @@ Below are screenshots demonstrating unit and integration test coverage:
 
 ---
 
-🧠 Reflections on Debugging markdown
+
 ## 🧠 Debugging Reflections
 
 Throughout this assignment, I applied debugging techniques such as:
@@ -94,15 +96,39 @@ Throughout this assignment, I applied debugging techniques such as:
 
 ---
 
+
+
+
+<section id="contact">
+  <h2>Contact</h2>
+   <!-- 👤 Profile Image -->
+  <img src="assets/leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <p><strong>Author:</strong> Leonard Phokane</p>
+  <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
+  <p><strong>Phone:</strong> +27 72 350 7514</p>
+
+  <!-- 🌐 Personal Website Link -->
+  <p><strong>Personal Website:</strong> 
+    <a href="https://leonardphokane.github.io/hackathon-portfolio/" target="_blank">
+    
+    </a>
+  </p>
+</section>
+
+---
+
 ### 🧠 Reflection
 
 > “Testing isn’t just validation — it’s storytelling through resilience. Every bug fixed is a lesson learned.” — Leonard Phokane
 
----
+--
 
-### 🏷️ Tags
 
-#MERNStack #TestingStrategy #Debugging #P
+## 🏷 Community Tags
+
+`#PowerLearnProject` `#PLPCommunity` `#1MillionDevs4Africa`
+
+
 
 
 
