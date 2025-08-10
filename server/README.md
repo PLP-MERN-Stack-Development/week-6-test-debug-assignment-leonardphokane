@@ -1,5 +1,5 @@
 
-## 🧪 Week 6 MERN Testing & Debugging — Week 6 Assignment
+## 🧪 Week 6 MERN Testing & Debugging — Assignment
 ![Test Coverage](https://img.shields.io/badge/Coverage-85%25-brightgreen)
 ![Jest](https://img.shields.io/badge/Tested_with-Jest-blue)
 ![MongoDB Memory Server](https://img.shields.io/badge/DB-Memory_Server-yellow)
