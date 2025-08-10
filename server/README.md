@@ -1,5 +1,5 @@
-🧪 Week 6 MERN Testing & Debugging — Assignment Showcase markdown
-## 🧪 MERN Testing & Debugging — Week 6 Assignment
+
+## 🧪 Week 6 MERN Testing & Debugging — Week 6 Assignment
 ![Test Coverage](https://img.shields.io/badge/Coverage-85%25-brightgreen)
 ![Jest](https://img.shields.io/badge/Tested_with-Jest-blue)
 ![MongoDB Memory Server](https://img.shields.io/badge/DB-Memory_Server-yellow)
@@ -33,7 +33,6 @@ This project implements a layered testing approach across the MERN stack:
 
 Create a `.env` file in the `server/` directory based on `.env.example`:
 
-```bash
 cp server/.env.example server/.env
 
 
